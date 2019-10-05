@@ -434,5 +434,10 @@ var profiles = [
     place: "Chennai, India",
     github: "Nilesh2000"
   }
+  {
+    name: "Gurjot Singh",
+    place: "Ludhiana, India",
+    github: "Gurjotsm"
+  }
 ];
 
